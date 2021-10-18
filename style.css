@@ -1,0 +1,29 @@
+.div1 {
+    align-items: center;
+}
+ .pad1 {
+    margin-bottom: 30px;
+    margin-top: 10px;
+ }
+ #par1 {
+    padding: 30px; text-align: center;
+ }
+ #footer1 {
+    background-color: black; color: white;
+ }
+ .align1 {
+     text-align: center;
+ }
+ .background {
+    background-color: coral;
+ }
+ #gh {
+    margin-left: 10px;
+ }
+ .color2 {
+    background-color: khaki;
+ }
+ #border { 
+    border: 10px;
+ }
+ 
